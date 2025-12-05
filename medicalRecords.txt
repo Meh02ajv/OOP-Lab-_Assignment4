@@ -1,0 +1,6 @@
+
+1001, Hypertension, Blood pressure medication,1710504600000,Dr. Amponsah, Lisinopril 10mg daily
+1002, Common Cold, Rest and fluids,1710677400000, Dr. Nyanko, Paracetamol 500mg as needed
+1003, Diabetes Type 2, Insulin therapy,1710936600000, Dr. Amponsah, Metformin 500mg twice daily
+1004, Migraine, Pain management,1711368600000, Dr. Smith, Ibuprofen 400mg as needed
+1005, Annual Checkup, Routine examination,1711800600000, Dr. Nyanko, Multivitamin daily

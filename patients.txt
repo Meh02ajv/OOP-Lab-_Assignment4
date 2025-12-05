@@ -1,0 +1,5 @@
+1001,John Doe,35,Male,john.doe@ashesi.edu.gh,0241234567
+1002,Jane Smith,28,Female,jane.smith@ashesi.edu.gh,0247654321
+1003,Kofi Mensah,42,Male,kofi.mensah@ashesi.edu.gh,0205551234
+1004,Ama Asante,31,Female,ama.asante@ashesi.edu.gh,0243456789
+1005,Kwame Osei,55,Male,kwame.osei@ashesi.edu.gh,0201234567

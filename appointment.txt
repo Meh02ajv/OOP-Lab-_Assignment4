@@ -1,0 +1,5 @@
+1001,2024,3,15,2024-03-15,10,30,Dr. Amponsah,General Checkup
+1002,2024,3,15,2024-03-15,14,0,Dr. Nyanko,Vaccination
+1003,2024,3,16,2024-03-16,9,15,Dr. Amponsah,Follow-up
+1004,2024,3,18,2024-03-18,11,0,Dr. Smith,Consultation
+1005,2024,3,20,2024-03-20,15,30,Dr. Nyanko,Annual Checkup
